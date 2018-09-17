@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"* {\r\n  box-sizing: border-box;\r\n  margin: 0;\r\n  padding: 0;\r\n  text-decoration: none;\r\n}\r\n\r\n.container {\r\n  width: 1366px;\r\n  height: 6000px;\r\n  margin: 0 auto;\r\n  padding: 20px 30px;\r\n  background-color: #caf2f1;\r\n  background-image: url(../images/background.png);\r\n}\r\n\r\n.top-header-block {\r\n  display: flex;\r\n  flex-direction: row;\r\n  justify-content: space-between;\r\n\r\n  @div {\r\n    color: red;\r\n  }\r\n}\r\n\r\n"
+	],
+	"mappings": ";AAAA,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAW;EACvB,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;EACX,eAAe,EAAE,IAAK,GACvB;;;AAED,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,MAAO;EACd,MAAM,EAAE,MAAO;EACf,MAAM,EAAE,MAAO;EACf,OAAO,EAAE,SAAU;EACnB,gBAAgB,EAAE,OAAQ;EAC1B,gBAAgB,EAA8B,6BAAC,GAChD;;;AAED,AAAA,iBAAiB,CAAC;EAChB,OAAO,EAAE,IAAK;EACd,cAAc,EAAE,GAAI;EACpB,eAAe,EAAE,aAAc,GAKhC;;AAHC,IAAI;;EALN,AAAA,iBAAiB,CAAjB;IAMI,KAAK,EAAE,GAAI,GAEd",
+	"names": []
+}
