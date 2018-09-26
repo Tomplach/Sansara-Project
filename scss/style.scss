@@ -1366,7 +1366,7 @@ a:visited, a:link {
   left: 430px;
   z-index: -1;
   animation: animate_horiz 60s cubic-bezier(.26,-0.05,.77,1.1) infinite;
-  -webkit-animation: animate_horiz 60s cubic-bezier(.26,-0.05,.77,1.1) infinite;
+  -webkit-animation: animate_horiz 60s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble2 {
@@ -1374,32 +1374,32 @@ a:visited, a:link {
   top: 30px;
   left: 390px;
   z-index: -1;
-  animation: animate_1 60s linear infinite;
-  -webkit-animation: animate_1 60s linear infinite;
+  animation: animate_1 60s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_1 60s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble3 {
   position: absolute;
   top: 100px;
   left: 350px;
-  animation: animate_2 90s linear infinite;
-  -webkit-animation: animate_2 90s linear infinite;
+  animation: animate_2 90s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_2 90s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble4 {
   position: absolute;
   top: 140px;
   left: 410px;
-  animation: animate_3 120s linear infinite;
-  -webkit-animation: animate_3 120s linear infinite;
+  animation: animate_3 120s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_3 120s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble5 {
   position: absolute;
   top: 90px;
   left: 420px;
-  animation: animate_4 40s linear infinite;
-  -webkit-animation: animate_4 40s linear infinite;
+  animation: animate_4 40s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_4 40s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble6 {
@@ -1407,8 +1407,8 @@ a:visited, a:link {
   top: 145px;
   left: 480px;
   z-index: -33;
-  animation: animate_1 60s linear infinite;
-  -webkit-animation: animate_1 60s linear infinite;
+  animation: animate_1 60s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_1 60s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble7 {
@@ -1416,8 +1416,8 @@ a:visited, a:link {
   top: 255px;
   left: 490px;
   z-index: 10;
-  animation: animate_2 40s linear infinite;
-  -webkit-animation: animate_2 40s linear infinite;
+  animation: animate_2 40s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_2 40s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble8 {
@@ -1425,8 +1425,8 @@ a:visited, a:link {
   top: 250px;
   left: 335px;
   z-index: 10;
-  animation: animate_3 80s linear infinite;
-  -webkit-animation: animate_3 80s linear infinite;
+  animation: animate_3 80s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_3 80s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble9 {
@@ -1434,8 +1434,8 @@ a:visited, a:link {
   top: 300px;
   left: 440px;
   z-index: 10;
-  animation: animate_4 150s linear infinite;
-  -webkit-animation: animate_4 150s linear infinite;
+  animation: animate_4 150s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_4 150s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble10 {
@@ -1443,8 +1443,8 @@ a:visited, a:link {
   top: 380px;
   right: 410px;
   z-index: 10;
-  animation: animate_1 70s linear infinite;
-  -webkit-animation: animate_1 70s linear infinite;
+  animation: animate_1 70s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_1 70s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble11 {
@@ -1452,8 +1452,8 @@ a:visited, a:link {
   top: 440px;
   right: 460px;
   z-index: 10;
-  animation: animate_2 120s linear infinite;
-  -webkit-animation: animate_2 120s linear infinite;
+  animation: animate_2 120s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_2 120s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble12 {
@@ -1461,8 +1461,8 @@ a:visited, a:link {
   top: 560px;
   left: 0px;
   z-index: 10;
-  animation: animate_vert 90s linear infinite;
-  -webkit-animation: animate_vert 90s linear infinite;
+  animation: animate_vert 90s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_vert 90s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble13 {
@@ -1470,8 +1470,8 @@ a:visited, a:link {
   top: 640px;
   left: 140px;
   z-index: 11;
-  animation: animate_4 150s linear infinite;
-  -webkit-animation: animate_4 150s linear infinite;
+  animation: animate_4 150s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_4 150s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble14 {
@@ -1479,8 +1479,8 @@ a:visited, a:link {
   top: 740px;
   left: 530px;
   z-index: 10;
-  animation: animate_1 90s linear infinite;
-  -webkit-animation: animate_1 90s linear infinite;
+  animation: animate_1 90s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_1 90s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble15 {
@@ -1488,8 +1488,8 @@ a:visited, a:link {
   top: 690px;
   right: 320px;
   z-index: 10;
-  animation: animate_2 170s linear infinite;
-  -webkit-animation: animate_2 170s linear infinite;
+  animation: animate_2 170s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_2 170s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble16 {
@@ -1497,8 +1497,8 @@ a:visited, a:link {
   top: -40px;
   left: 220px;
   z-index: 10;
-  animation: animate_4 240s linear infinite;
-  -webkit-animation: animate_4 240s linear infinite;
+  animation: animate_4 240s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_4 240s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble17 {
@@ -1506,8 +1506,8 @@ a:visited, a:link {
   top: 90px;
   left: 140px;
   z-index: 10;
-  animation: animate_2 150s linear infinite;
-  -webkit-animation: animate_2 150s linear infinite;
+  animation: animate_2 150s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_2 150s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble18 {
@@ -1515,8 +1515,8 @@ a:visited, a:link {
   top: 210px;
   left: 470px;
   z-index: 10;
-  animation: animate_3 170s linear infinite;
-  -webkit-animation: animate_3 170s linear infinite;
+  animation: animate_3 170s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_3 170s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .big-bubble-sansara {
@@ -1524,8 +1524,8 @@ a:visited, a:link {
   top: 240px;
   left: 210px;
   z-index: -1;
-  animation: animate_sansara 1200s linear infinite;
-  -webkit-animation: animate_sansara 1200s linear infinite;
+  animation: animate_sansara 1200s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_sansara 1200s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble19 {
@@ -1533,8 +1533,8 @@ a:visited, a:link {
   top: 0px;
   left: 0px;
   z-index: 10;
-  animation: animate_vert 120s linear infinite;
-  -webkit-animation: animate_vert 120s linear infinite;
+  animation: animate_vert 120s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_vert 120s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble20 {
@@ -1542,8 +1542,8 @@ a:visited, a:link {
   top: 190px;
   right: 420px;
   z-index: 10;
-  animation: animate_4 230s linear infinite;
-  -webkit-animation: animate_4 230s linear infinite;
+  animation: animate_4 230s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_4 230s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble21 {
@@ -1551,8 +1551,8 @@ a:visited, a:link {
   top: 0px;
   left: 440px;
   z-index: 10;
-  animation: animate_1 370s linear infinite;
-  -webkit-animation: animate_1 370s linear infinite;
+  animation: animate_1 370s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_1 370s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble22 {
@@ -1560,8 +1560,8 @@ a:visited, a:link {
   top: -40px;
   right: 110px;
   z-index: 10;
-  animation: animate_2 270s linear infinite;
-  -webkit-animation: animate_2 270s linear infinite;
+  animation: animate_2 270s cubic-bezier(.25,-0.01,.77,1) infinite;
+  -webkit-animation: animate_2 270s cubic-bezier(.25,-0.01,.77,1) infinite;
 }
 
 .bubble23 {
