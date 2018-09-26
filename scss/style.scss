@@ -1365,8 +1365,8 @@ a:visited, a:link {
   top: 0;
   left: 430px;
   z-index: -1;
-  animation: animate_horiz 60s linear infinite;
-  -webkit-animation: animate_horiz 60s linear infinite;
+  animation: animate_horiz 60s cubic-bezier(.26,-0.05,.77,1.1) infinite;
+  -webkit-animation: animate_horiz 60s cubic-bezier(.26,-0.05,.77,1.1) infinite;
 }
 
 .bubble2 {
